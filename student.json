@@ -1,0 +1,32 @@
+[
+    {
+        "sid": 12121,
+        "name": "Rahul Das",
+        "age": 22,
+        "course": "BCA"
+    },
+    {
+        "sid": 12122,
+        "name": "Kukil Chandra Das",
+        "age": 28,
+        "course": "MSc"
+    },
+    {
+        "sid": 12123,
+        "name": "Pankaj Kalita",
+        "age": 27,
+        "course": "MA"
+    },
+    {
+        "sid": 12124,
+        "name": "Tapas Paul",
+        "age": 24,
+        "course": "BSc"
+    },
+    {
+        "sid": 12125,
+        "name": "Taklu Roy",
+        "age": 21,
+        "course": "BA"
+    }
+]
